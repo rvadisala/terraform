@@ -1,5 +1,5 @@
 provider "aws" {
-  region                  = "ap-south-1"
+  region                  = ""
   shared_credentials_file = "/Users/rvadisala/.aws/credentials"
   profile                 = ""
 }
